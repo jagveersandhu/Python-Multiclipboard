@@ -10,8 +10,8 @@ Can be integrated into other projects or used as a standalone tool.
 How to Use:
 Run these commands in cmd to use this script
 1) Clone the Repository:
-git clone https://github.com/jagveersandhu/Python-Multiclipboard.git
-cd Python-Multiclipboard
+a) git clone https://github.com/jagveersandhu/Python-Multiclipboard.git
+b) cd Python-Multiclipboard
 2) Running the Scripts:
 python pythonmulticlipboard.py
 
